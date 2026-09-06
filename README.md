@@ -126,7 +126,7 @@ The `OrderService` uses `@RequiredArgsConstructor` and `@Slf4j`.
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/monirehJamshidi/lombok-demo.git
 ```
 
 Navigate to the project:
@@ -223,4 +223,4 @@ Intentional usage matters. 💡
 
 I also shared a LinkedIn post about this project and the Lombok annotations covered here.
 
-🔗 LinkedIn: <your-linkedin-post-url>
+🔗 LinkedIn: https://www.linkedin.com/in/monireh-jamshidi-5a920899/
